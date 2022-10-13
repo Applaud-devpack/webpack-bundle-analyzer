@@ -1,6 +1,6 @@
 {
   "name": "@applaud/webpack-bundle-analyzer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap",
   "author": "Applaud",
   "license": "MIT",
@@ -31,7 +31,7 @@
     "lib",
     "src",
     "views"
-    ],
+  ],
   "dependencies": {
     "acorn": "^7.1.1",
     "acorn-walk": "^7.1.1",
@@ -43,7 +43,7 @@
     "filesize": "^3.6.1",
     "gzip-size": "^5.0.0",
     "lodash": "^4.17.19",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "0.5.6",
     "opener": "^1.5.1",
     "ws": "^6.0.0"
   },
