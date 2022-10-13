@@ -1,6 +1,6 @@
 {
   "name": "@applaud/webpack-bundle-analyzer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap",
   "author": "Applaud",
   "license": "MIT",
